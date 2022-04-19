@@ -1,0 +1,10 @@
+h1{
+    color: red;
+}
+strong{
+    color: orange;
+}
+@media  print{
+    table:document.write (`<h1>sizning ismingiz <mark>${ism} </mark> </h1>`) ;
+    
+}
